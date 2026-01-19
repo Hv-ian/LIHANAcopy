@@ -1290,7 +1290,7 @@ footer {
 
   .hero-buttons .btn {
     width: 100%;
-    max-width: 240px;
+    max-width: 200px;
     /* slightly smaller */
     padding: 0.7rem 1.25rem;
     font-size: 0.85rem;
